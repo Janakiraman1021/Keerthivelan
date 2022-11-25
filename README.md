@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JANAKIRAMAN</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-- 🔭 I’m currently working on [Voice Assisstant](https://github.com/Hogwats/Voice-assistance)
+- 🔭 I’m currently working on **MiniProjects**
 
 - 🌱 I’m currently learning **Python**
 
