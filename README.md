@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **........**
 
-- 📫 How to reach me **humayunmohamedsuhe0786@gmail.com**
+- 📫 How to reach me **janakiramankeerthivelan1021@gmail.com**
 
 - ⚡Hobbies **Programming,Developing Apps And The Games**
 
